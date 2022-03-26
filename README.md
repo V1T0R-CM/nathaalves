@@ -9,7 +9,6 @@
 <p>I currently work in a solar energy design and installation company. In it I was able to apply my knowledge in programming to improve the development and monitoring processes of projects, using VBA together with Execel.</p>
 
 <p>I've had some contact with C, C++, Java and Python.</p>
-"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
 
 <div display="inline-block">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
