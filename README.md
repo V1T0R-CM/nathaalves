@@ -1,8 +1,29 @@
-<h1 align="center">Hi 👋, I'm Nathã</h1>
+<h1 align="center">👋 Hello, World! I'm Nathã</h1>
 <h3 align="center">A Full-Stack bootcamp student</h3>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Building Robots to ease opertations",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 <p>I'm an engineering student at the Federal Univesity of Alagoas, looking for new opportunities in the TI area.</p>
 
 <p>In my graduation I had my first contact with the programming language, which awoke in me a great desire to develop myself in this area.</p>
