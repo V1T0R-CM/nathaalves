@@ -1,4 +1,7 @@
-<p>Hi there 👋</p>
+<h1 align="center">Hi 👋, I'm Nathã</h1>
+<h3 align="center">A Full-Stack bootcamp student</h3>
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <p>I'm an engineering student at the Federal Univesity of Alagoas, looking for new opportunities in the TI area.</p>
 
