@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<h3 align="center">A Full-Stack bootcamp student</h3>
+<h4 align="center">A little more about me...</h4>
 <p>I'm an engineering student at the Federal Univesity of Alagoas, looking for new opportunities in the TI area.</p>
 
 <p>In my graduation I had my first contact with the programming language, which awoke in me a great desire to develop myself in this area.</p>
