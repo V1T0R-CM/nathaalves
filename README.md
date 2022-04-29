@@ -12,17 +12,6 @@
 
 <p>Now, I'm taking Driven's intensive full-stack web programming training</p>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   3 hrs 27 mins   ███████████░░░░░░░░░░░░░░   43.40 %
-TypeScript   3 hrs 10 mins   ██████████░░░░░░░░░░░░░░░   39.82 %
-Other        23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-```
-
-<!--END_SECTION:waka-->
-
 <h2>🛠️ My favorite tools</h2>
 
 <h3>👨‍💻 Programming and markup languages</h3>
