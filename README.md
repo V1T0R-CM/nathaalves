@@ -85,8 +85,6 @@
 <img alt="amazon prime" src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white">
 </p>
 
-<img alt="" src="https://github-readme-stats.vercel.app/api?username={nathaalves}">
-<img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username={nathaalves}">
 <img alt="" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{nathaalves}1212%2Fhit-counter">
 
 
