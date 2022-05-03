@@ -5,7 +5,7 @@
 
 <h3 align="center">A little more about me...</h3>
 
-<p>I'm an engineering student at the Federal Univesity of Alagoas, looking for new opportunities in the TI area.</p>
+<p>I'm an engineering student at the Federal Univesity of Alagoas, looking for new opportunities in the IT area.</p>
 
 <p>In my graduation I had my first contact with the programming language, which awoke in me a great desire to develop myself in this area.</p>
 
