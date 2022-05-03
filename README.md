@@ -41,7 +41,7 @@
 <h3>💻 Software and tools</h3>
 
 <p>
-    <img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?style=for-the-badgelogo=bitwarden&logoColor=white">
+    <img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white">
     <img alt="Brave" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">
     <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
