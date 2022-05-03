@@ -13,7 +13,9 @@
 
 <p>Now, I'm taking Driven's intensive full-stack web programming training</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaalves)](https://github.com/anuraghazra/github-readme-stats)
+<div align="rigth">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaalves&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <h2>🛠️ My favorite tools</h2>
 
