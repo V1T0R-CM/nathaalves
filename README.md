@@ -4,6 +4,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="center">A little more about me...</h3>
+
 <p>I'm an engineering student at the Federal Univesity of Alagoas, looking for new opportunities in the TI area.</p>
 
 <p>In my graduation I had my first contact with the programming language, which awoke in me a great desire to develop myself in this area.</p>
@@ -11,6 +12,8 @@
 <p>During the graduation period, I was able to apply my knowledge in programming language in three research projects in which I worked with large amounts of data for statistical analysis and numerical calculations.</p>
 
 <p>Now, I'm taking Driven's intensive full-stack web programming training</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaalves)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>🛠️ My favorite tools</h2>
 
@@ -75,7 +78,7 @@
     
 </p>
 
-<h3>❤ Funding</h3>
+<h3>❤ Others</h3>
 
 <p>	
     <img alt="binance" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white">
