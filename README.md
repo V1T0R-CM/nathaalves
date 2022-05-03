@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, World! I'm Nathã</h1>
 <h2 align="center">A Full-Stack bootcamp student</h2>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="395px" />
 
 <h3 align="center">A little more about me...</h3>
 
@@ -13,9 +13,10 @@
 
 <p>Now, I'm taking Driven's intensive full-stack web programming training</p>
 
-<div align="center"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=nathaalves&show_icons=true&theme=tokyonight" ><img height="195px" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaalves&layout=compact&langs_count=7&theme=tokyonight"/></div>
+<img align="right" width="395px" height="195px" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=nathaalves&show_icons=true&theme=tokyonight" >
 
 <h2>🛠️ My favorite tools</h2>
+
 
 <h3>👨‍💻 Programming and markup languages</h3>
 
@@ -25,8 +26,9 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </p>
 
-
 <h3>🧰 Frameworks and libraries</h3>
+
+<img align="right" width="395px" height="195px" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaalves&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <p>
     <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
