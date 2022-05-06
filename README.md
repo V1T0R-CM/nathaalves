@@ -10,11 +10,6 @@
 <p>During the graduation period, I was able to apply my knowledge in programming language in three research projects in which I worked with large amounts of data for statistical analysis and numerical calculations.</p>
 <p>Now, I'm taking Driven's intensive full-stack web programming training</p>
 
-<div align="center">
-    <img width="395px" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=nathaalves&show_icons=true&theme=tokyonight" >
-    <img width="390px" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaalves&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=nathaalves&langs_count=5&theme=tokyonight&hide=other&custom_title=Wakatime%20Weekly%20Status&range=last_7_days"
-</div>
 <h3>🛠️ My favorite tools</h2>
 <h4>👨‍💻 Programming and markup languages</h3>
 <p>
@@ -35,6 +30,10 @@
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
     <img alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </p>
-
+<div align="center">
+    <img width="395px" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=nathaalves&show_icons=true&theme=tokyonight" >
+    <img width="390px" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaalves&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=nathaalves&langs_count=5&theme=tokyonight&hide=other&custom_title=Wakatime%20Weekly%20Status&range=last_7_days"
+</div>
 
 
