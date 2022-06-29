@@ -22,7 +22,6 @@
         <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
         <img alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
     </p>
-
     <div align="center">
         <img width="395px" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=nathaalves&show_icons=true&theme=tokyonight" >
         <img width="390px" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaalves&layout=compact&langs_count=7&theme=tokyonight"/>
