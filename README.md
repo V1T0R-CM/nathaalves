@@ -27,8 +27,3 @@
         <img width="390px" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaalves&layout=compact&langs_count=7&theme=tokyonight"/>
     </div>
 </p>
-<p>
-    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350px" />
-</p>
-
-
